@@ -1,5 +1,8 @@
 # Mon Journal de veille
 
+[google](https.//google.com)
+[mdn](https://mdn.com)
+
 ## 30/10/2026 - Sécurité de l'Authentifiaction (Site de l'ANSSI)
 
 - **source** : Site gouvernemental de l'ANSSI : https://messervices.cyber.gouv.fr/guides/recommandations-relatives-lauthentification-multifacteur-et-aux-mots-de-passe
