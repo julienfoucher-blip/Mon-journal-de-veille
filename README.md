@@ -44,6 +44,7 @@
 
 -Vérifier si la fonctionnalité est disponible depuis longtemps sur le navigateur
 - Sinon vérifier si la fonctionnalité fonctionne sur l'appareil (à sa dernière version stable)
+- Dégager si déprécié
 
 **Pourquoi est-ce utile en tant que développeur**
 
