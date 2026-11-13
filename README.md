@@ -31,3 +31,24 @@
         - Garder les mots de passes soit dans ma tête, soit dans un coffre-fort
         - Essayer de modifier régulièrement les mots de passe de mes comptes
         - Suivre les recommandations et créer des mots de passes long et robustes
+
+## 13/11/2026 - Widely available et Newly available : quelle différence ?
+
+**Source: https://developer.mozilla.org/en-US/docs/Glossary/Baseline/Compatibility**
+
+**Ce que j'ai appris**
+- Les fonctionnalités répertoriées comme étant largement disponibles bénéficient d'un historique de prise en charge constant dans chacun des navigateurs de référence depuis au moins deux ans et demi.
+- Newly avaliable est basée sur la dernière version stable il est possible que cela ne fonctionne pas sur les appareils plus anciens
+
+**Ce qu'il faut faire**
+
+-Vérifier si la fonctionnalité est disponible depuis longtemps sur le navigateur
+- Sinon vérifier si la fonctionnalité fonctionne sur l'appareil (à sa dernière version stable)
+
+**Pourquoi est-ce utile en tant que développeur**
+
+C'est important de se renseigner sur l'évolution des fonctionnalités (à jour, déprécié etc...)
+
+**Ce que je vais faire et vérifier**
+
+Je doit continuer à vérifier l'évolution des fonctionnalités si accessible ou pas.
