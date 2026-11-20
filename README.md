@@ -53,3 +53,28 @@ C'est important de se renseigner sur l'évolution des fonctionnalités (à jour,
 **Ce que je vais faire et vérifier**
 
 Je doit continuer à vérifier l'évolution des fonctionnalités si accessible ou pas.
+
+# 20/11/2026 : toSorted() sur le site de TC39
+
+**Ce que j'ai appris**
+
+nom : Change Array by Copy
+
+Dans la liste des proposition toSorted() à été accepté dans le but de copier un tableau sans le copier
+en même temps que toReverse() et toSplice()
+
+Accepté en 2023
+
+le TC39 est le comité technique d’Ecma International qui fait évoluer ECMAScript ; une proposition passe par des étapes (stages) de 0 à 4 ; au stage 4, elle est terminée et entre dans la norme de l’année.
+
+**Ce qu'il faut faire**
+
+Vérifier l'évolution du code, des fonctions qui peuvent être ajoutées comme toSorted() de faire de la logique métier et de simplifier le code (au lieu de faire cinq lignes de code n'avoir qu'une fonction oare exemple)
+
+**Pourquoi est-ce utile en tant que développeur**
+
+Il faut se renseigner car le code évolue en permanence, des functions peuvent devenir obsolète et être remplacées par de nouvelles function ou déclaration comme var en JS qui n'est plus utilisé on utilise let pour des variables modifiables ou const pour des variables permanentes
+
+**Ce que je vais faire et vérifier**
+
+Regarder sur les sites de W3C ou de TC39 l'évolution des languages de programmation que j'utilise.
